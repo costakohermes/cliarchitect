@@ -1,0 +1,16 @@
+{
+  "name": "CLIArchitect",
+  "short_name": "CLIArchitect",
+  "description": "Build powerful command-line tools with delightful developer experience",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff7ed",
+  "theme_color": "#ea580c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
